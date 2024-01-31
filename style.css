@@ -1,0 +1,43 @@
+nav{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+
+#grey {
+    border: 1px solid #949292;
+    background-color: #b7b6b6;
+    width: 159px;
+    height: 138px;
+    margin: 7px;
+}
+
+#white {
+    border: 1px solid rgb(240, 237, 237);
+    background-color: rgb(251, 247, 247);
+    width: 159px;
+    height: 138px;
+    margin: 7px;
+}
+
+#blue {
+    border: 1px solid rgb(36, 179, 208);
+    background-color: #28cff1;
+    width: 159px;
+    height: 138px;
+    margin: 7px;
+}
+
+#yellow {
+    border: 1px solid rgb(226, 212, 14);
+    background-color: rgb(250, 235, 16);
+    width: 159px;
+    height: 138px;
+    margin: 7px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
